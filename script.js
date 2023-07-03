@@ -16,4 +16,3 @@ refreshImageDiv.onclick = () =>{
 
 
 
-//Promises : asynchronous programming : .this()
